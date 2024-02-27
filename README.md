@@ -16,7 +16,7 @@
 <p align="left">Self taught flutter developer from Kochi, India<br><br>- 🔭 Reach out to me:- <a href="faizsr.dev@gmail.com">faizsr.dev@gmail.com</a> <br>
 <hr/>
 
-<h3 align="left">Language and tools</h3>
+<h3 align="left">Language and tools :</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
@@ -34,6 +34,15 @@
 
 </div>
 
+<h3 align="left">Connect :</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+</div>
+<hr/>
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/faizsr/count.svg?"  />
