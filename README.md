@@ -9,11 +9,11 @@
 <!-- /Header Image -->
 
 
-<h1 align="center">Hello, I'm Faiz S R</h1>
+<h1 align="center">Hello👋, I'm Faiz S R</h1>
 
 <br clear="both">
 
-<p align="left">Self taught flutter developer from Kochi, India<br><br>- 🔭 Reach out to me:- <a href="faizsr.dev@gmail.com">faizsr.dev@gmail.com</a> <br>
+<p align="left">Self taught Flutter Developer from India<br><br>- 🔭 Reach out to me:- <a href="faizsr.dev@gmail.com">faizsr.dev@gmail.com</a> <br>
 <hr/>
 
 <h3 align="left">Language and tools :</h3>
