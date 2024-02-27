@@ -34,32 +34,29 @@
 
 </div>
 
-<h3 align="left">Connect :</h3>
+<h3 align="left">Connect with me:</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/rameezibrahimofficial" target="blank">
+ <img align="center" src="https://skillicons.dev/icons?i=linkedinv&theme=dark" alt="faizsr" height="30" width="40" />
+</a>
+<a href="https://instagram.com/ra.meez__" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ra.meez__" height="30" width="40" />
+</a>
+</p>
 <hr/>
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/faizsr/count.svg?"  />
 
-###
 
 <h3 align="left">My Stats :</h3>
-
-###
 
 <br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=faizsr&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
 
 <div style="display: flex;height:5px;"></div>
  
