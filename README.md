@@ -3,7 +3,7 @@
 <!-- Header Image -->
 <h3 align="center"> 
 
-![Hi 👋, I'm Goutham V](https://raw.githubusercontent.com/faizsr/Faiz-SR/main/Github%20banner.png)
+![](https://raw.githubusercontent.com/faizsr/Faiz-SR/main/Github%20banner.png)
  </h3>
 <h3 align="center"></h3>
 <!-- /Header Image -->
@@ -14,12 +14,9 @@
 <br clear="both">
 
 <p align="left">Self taught flutter developer from Kochi, India<br><br>- 🔭 Reach out to me:- <a href="faizsr.dev@gmail.com">faizsr.dev@gmail.com</a> <br>
-
-###
+<hr/>
 
 <h3 align="left">Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
@@ -56,27 +53,6 @@
 ###
 
 <div style="display: flex;height:5px;"></div>
-
-
-
-
-
-
-
-
-
- 
-
- 
  
  
  </p>
- 
- <!--<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-45b8d8?style=flat-square&logo=flutter&logoColor=white" />-->
-
-
-<!--Reference :-->
-<!--https://github.com/simple-icons/simple-icons/blob/master/slugs.md-->
-<!--https://simpleicons.org/?q=leetcode-->
-<!--https://shields.io/docs/static-badges-->
-<!--https://zzetao.github.io/awesome-github-profile/-->
