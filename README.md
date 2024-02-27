@@ -37,10 +37,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/rameezibrahimofficial" target="blank">
+<a href="https://linkedin.com/in/faizsr" target="blank">
  <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="faizsr" height="30" width="40" />
 </a>
-<a href="https://instagram.com/ra.meez__" target="blank">
+<a href="https://instagram.com/faiz.ey" target="blank">
  <img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="ra.meez__" height="30" width="40" />
 </a>
 </p>
