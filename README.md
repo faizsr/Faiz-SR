@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<p align="left">Self taught flutter developer from Kochi, India<br><br>- 🔭 I’m working as a developer<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I ...</p>
+<p align="left">Self taught flutter developer from Kochi, India<br><br>- 🔭 Reach out to me: <a href="faizsr.dev@gmail.com"><br>- 📚 I'm currently learning Flutter<br>- ⚡ In my free time I ...</p>
 
 ###
 
