@@ -9,36 +9,7 @@
 <!-- /Header Image -->
 
 
-<img align="left" height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-
-###
-
-<div align="right">
-  <a href="https://medium.com/@abdullahnettoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Abdullah Nettoor&logo=medium&label=&color=12100E&logoColor=black&labelColor=fff&style=flat" height="20" alt="medium logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abdullahnettoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Abdullah Nettoor&logo=linkedin&label=&color=0077B5&logoColor=blue&labelColor=fff&style=flat" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/abdullahnettoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Abdullah Nettoor&logo=behance&label=&color=1769ff&logoColor=blue&labelColor=fff&style=flat" height="20" alt="behance logo"  />
-  </a>
-  <a href="https://wa.me/919061904860" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Abdullah Nettoor&logo=whatsapp&label=&color=25D366&logoColor=green&labelColor=fff&style=flat" height="20" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left">Hello,I'm Faiz S R</h1>
-
-###
-
-<br clear="both">
-
-// <h3 align="left">👩‍💻  About Me</h3>
-
-###
+<h1 align="left">Hello, I'm Faiz S R</h1>
 
 <br clear="both">
 
