@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="left">Hello,I'm Abdullah Nettoor</h1>
+<h1 align="left">Hello,I'm Faiz S R</h1>
 
 ###
 
