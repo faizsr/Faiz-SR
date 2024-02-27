@@ -38,7 +38,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/rameezibrahimofficial" target="blank">
- <img align="center" src="https://skillicons.dev/icons?i=linkedinv&theme=dark" alt="faizsr" height="30" width="40" />
+ <img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="faizsr" height="30" width="40" />
 </a>
 <a href="https://instagram.com/ra.meez__" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ra.meez__" height="30" width="40" />
