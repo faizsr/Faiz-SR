@@ -22,17 +22,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
