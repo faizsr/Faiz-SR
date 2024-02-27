@@ -24,6 +24,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
@@ -32,9 +34,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAE1klEQVR4Ab3XA5QkaRaG4eePNBrVKLV7bdu2bdu2vQdr27Ztm2Pb064K3e3xTJ7TmTvTeMP8LgMuI02MbmcOABlaAHgSbgCAlv1I62KrN8RvdZaFrFXijaztATI07EMayABL8A6NTlg6H1hEGM4GjsYDRwzO7AVpJKQPxQnOEwsUrn67MFhZI7dkLrSXBL5H+2p7lZaRi66M7zkn3OeIkKP2sDeF1/0svOhr4VaPCpQoLFsbslaFNzPfvzRpGT2xideQCsvWBAqUbvf48OKvh7f8Prz+l+FNvwlv/HV4ygfD5W8cyGXtMJgOHI0HjekeaWQ9AHfB2w2mr6hYIN9a2HyDljs9kXVXISXKnJQIJLQ67NrBQb/hC68KlJbOtSzsJN/yAzwP/zFCGhFfLfN2tYe2p1erTz2tKGl6wCuSq92S3pB8EUiJixM1WZNmkzNP4o/f4mcfqxB6g6ZzjOOVeN3F9CRAEyUejk81lk8V1dlnZa59/8bSOz/I1uVrqUrqkpTZM0EEzTaC4w/iPR/Hbxb1Bx07d5yBtVhAQozebUdj5Yzd4unGL31NY/1jn2drmjWoFnVVE8QhkTLqnMWSmWvyoZdzxxu1douzdHimEUbvWPWX9SBd5cZX9OiHrnPH67Xs2MXCQljaoJEmlDDszFiCm2zhpg1WTgfotFpI4wwIUYN814L+IHPL2894xkNnXGt9x9azKlXFksbIXRIyLKDCtUpuu8i6oKypakCYbIAEUqKuKPPa3Nq++953ziPuuUqnnWzbUulmnDPJUGEH5mtun3ONghZypESWAZHSpLdaDUhRB4mUKPJaSlz1Wss8d2Pf3/98tu/9eRuJpoZyUHODknUVWVAkICGQEpBJJkcAiAgAKSHIFyqDQdPNb7vaMx466zrrOsorFJp3yNlUEigTF5dJyBIQJhsgASIwWuBJVYUir6xdN3C7e67kurlGN8gTkDBKygApIU1OwUgEYDQa56QlBHUSMLY7UgKJPUUgRpZEGEdKCYIYL56QEkCCCW0I1HVNHZhMGEN9cQPT5BpIWQaa7bZGuyXq2p5Ik4Qj6HZotYAsmWjA4vbtUB/1uz/actLJOsMhKY0xJAkXI4K6pt2k3eIfB/HrPwFbtmXIxj6KF085TWd6VfO373h/8fYb3c5BP/gJda3V64o6RAQpIRiNQV2TZfR6nHE2H/o8D3hq7aAjSv0OuxYzlOOi2ZRlz8DZvfnZQIXiOo98SDzzDz+JN247IV6/5bh49amHxxvOODpecPIh4V/fj8Y/vx/+sXs65KfhnPUPvDFQI7dmOvQ6gZ/j2oA0PqX9/hw+1lw6jGVX2BzIUd31ra+Nlx75j3jjjhPjDWcdE88/6eDwj+9F9t8fnSf+nY+FB9wlUKC2bjZwGh43qjOOFoBm85b4U3d2Onpr5wJ5b/Wq+uFf/mS8/vSj4qVnHX2ucOMP3wiveXagQm7DfGi3Ah+yxEpAQsP/SYYmAJ6esuzMJZfbGKhR3PhRD41H//b7dfdz7wqXXxeJ3MyKOGfCX3HLEafS3v2CDYfT+Eij142ll98UKFA0KVBZPxfYgeft9S/bhP+Dm+OP3bmZOCc1pqfC8mHgS9gwIr4XTE7LU3EWjsDd9yLce5EW1mIK0EDDXrA3aWm5jPwP5iPz/rYY9cUAAAAASUVORK5CYII=" height="40" alt="amazonwebservices logo"  />
+
 </div>
 
 ###
