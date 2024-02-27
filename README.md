@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<p align="left">Self taught flutter developer from Kochi, India<br><br>- 🔭 Reach out to me:- <a href="faizsr.dev@gmail.com">faizsr.dev@gmail.com</a> <br>-
+<p align="left">Self taught flutter developer from Kochi, India<br><br>- 🔭 Reach out to me:- <a href="faizsr.dev@gmail.com">faizsr.dev@gmail.com</a> <br>
 
 ###
 
@@ -26,13 +26,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
