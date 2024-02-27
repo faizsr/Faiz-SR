@@ -9,7 +9,7 @@
 <!-- /Header Image -->
 
 
-<h1 align="left">Hello, I'm Faiz S R</h1>
+<h1 align="center">Hello, I'm Faiz S R</h1>
 
 <br clear="both">
 
@@ -33,7 +33,7 @@
   <img width="12" />
 
 </div>
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
